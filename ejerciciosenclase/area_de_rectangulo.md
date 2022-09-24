@@ -12,3 +12,4 @@
            8-MOSTRAR(area)
            9-FIN
 
+![image](https://user-images.githubusercontent.com/114317702/192122661-77500304-0ac3-4bc2-8ee7-76f4899630a5.png)
